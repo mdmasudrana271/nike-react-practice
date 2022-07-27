@@ -19,16 +19,5 @@
 .card-img{
     background: #F1F1F1;
 }
-.card-w{
-    width: 370px;
-    height: 550px;
-}
 
-@media only screen and(max-width:576px) {
-    .rev{
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: column-reverse;
-    }
-    
-}
+
